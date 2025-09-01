@@ -165,7 +165,7 @@ A window will appear asking you to choose the source type:
   <br>
   
 <p align="center">
-<img width="1090" height="738" alt="image" src="https://github.com/user-attachments/assets/15e6e39a-3dec-44c7-a20d-e059c6dade7b" />
+<img width="1090" height="738" alt="image" src="https://github.com/99230041103/img-4/blob/8934e2f27a410a57133ecf57522702b59293e419/Screenshot%202025-09-01%20223944.png" />
 </p>
 <br>
 <br>
@@ -204,6 +204,7 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
 
