@@ -1,4 +1,4 @@
-# Ex.No.1    FTK Imager: A Forensic Imaging Tool Overview.md
+# Ex.No.1    FTK Imager: A Forensic Imaging Tool Overview
 
 ## Acquiring Volatile Memory (RAM) Using FTK Imager
 <br>
@@ -204,4 +204,5 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
