@@ -63,7 +63,7 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 
 
-<img width="1090" height="732" alt="image" src="https://github.com/user-attachments/assets/73069610-1704-424b-a0bb-c74981d19b02" />
+<img width="1090" height="732" alt="image" src="https://github.com/99230041103/img-2/blob/bd0ae78142b350b0884f3efbbd063c1dc9cf9461/Screenshot%202025-09-01%20204326.png" />
 
 <br>
 <br>
@@ -204,6 +204,7 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
 
