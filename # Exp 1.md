@@ -148,7 +148,7 @@ A window will appear asking you to choose the source type:
   - Enter case details, examiner name, and description.  
   - This information is stored in the image metadata (important for documentation).
  <p align="center">
-<img width="1088" height="741" alt="image" src="https://github.com/user-attachments/assets/ebaa67c1-e547-4cd0-9192-15df051cf0ed" />
+<img width="1088" height="741" alt="image" src="https://github.com/99230041103/img-3/blob/e21d14ac35e741a4351ffed03c74cce182f7afb6/Screenshot%202025-09-01%20223251.png" />
 
 </p>
 <br>
@@ -204,6 +204,7 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
 
