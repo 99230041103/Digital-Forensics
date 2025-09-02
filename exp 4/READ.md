@@ -17,7 +17,7 @@
 - Select all the text in the header and copy it.
 
 <br>
-<img width="1465" height="910" alt="Screenshot 2025-09-01 220301" src="https://github.com/user-attachments/assets/e39cf803-1ca2-4120-86c7-ed3495d8f05c" />
+<img width="1465" height="910" alt="Screenshot 2025-09-01 220301" src="https://github.com/srihari2082005-ctrl/img-1/blob/76074512c5c00a7bdb124a0b1672a70855c08935/Screenshot%202025-09-02%20112933.png" />
 
 <br>
 <br>
