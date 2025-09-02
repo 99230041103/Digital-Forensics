@@ -24,7 +24,7 @@
   <br>
 <br>
 
-  <img width="1919" height="1016" alt="Screenshot 2025-08-30 113433" src="https://github.com/user-attachments/assets/eaa20cad-34e6-4b5b-91cc-26b38932d100" />
+  <img width="1919" height="1016" alt="Screenshot 2025-08-30 113433" src="https://github.com/srihari2082005-ctrl/img-1/blob/5864fcaf224769c5d5c3b5ba5894154698823d11/Screenshot%202025-09-01%20204457.png" />
 
 <br>
 <br>
@@ -201,6 +201,7 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+
 
 
 
