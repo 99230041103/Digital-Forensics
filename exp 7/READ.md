@@ -53,7 +53,7 @@
         ```bash
         adb install aflogical.apk
         ```
-![WhatsApp Image 2025-10-28 at 00 41 33_c3b9e973](https://github.com/user-attachments/assets/676b28b1-38d5-4414-9ca1-a8e55cdbaf3f)
+![WhatsApp Image 2025-10-28 at 00 41 33_c3b9e973](https://github.com/srihari2082005-ctrl/img-1/blob/660d5e7401c34bd7bd63f8bfbb704a178098512a/Screenshot%202025-10-28%20110932.png)
 
 
 2.  **Launch the AFLogical OSE App on the Device:**
@@ -77,7 +77,7 @@
         ```bash
         adb pull /sdcard/aflogical /path/to/destination
         ```
-![WhatsApp Image 2025-10-28 at 00 39 27_26e4ec82](https://github.com/user-attachments/assets/044d4337-fd98-4a94-ad13-5f785a061bec)
+![WhatsApp Image 2025-10-28 at 00 39 27_26e4ec82](https://github.com/srihari2082005-ctrl/img-1/blob/660d5e7401c34bd7bd63f8bfbb704a178098512a/Screenshot%202025-10-27%20180809.png)
 
 
 
