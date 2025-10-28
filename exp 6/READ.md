@@ -74,7 +74,7 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 ### 🧩 View Partition Layout
 
 ```bash
-.\mmls.exe "C:\Users\Sai Kumar\Downloads\4Dell Latitude CPi.E01"
+.\mmls.exe "C:\Users\Sri Hari\Downloads\4Dell Latitude CPi.E01"
 
 ```
 📊  
